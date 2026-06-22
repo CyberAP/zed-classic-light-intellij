@@ -13,6 +13,8 @@ colors and the terminal ANSI palette match the original.
 > "IntelliJ" are trademarks of JetBrains s.r.o. This is an independent,
 > community-made color port for Zed.
 
+![Classic Light (IntelliJ-inspired) theme in Zed](screenshot.png)
+
 ## Highlights
 
 The defining trait of Classic Light is preserved: most code stays **black**,
