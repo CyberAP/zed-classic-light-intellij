@@ -1,0 +1,7 @@
+id = "classic-light-intellij"
+name = "Classic Light (IntelliJ-inspired)"
+version = "0.1.0"
+schema_version = 1
+authors = ["Stanislav Lashmanov (CyberAP)"]
+description = "A light theme for Zed inspired by JetBrains IntelliJ's \"Classic Light\" color scheme — faithful syntax palette, sidebar, and terminal colors."
+repository = "https://github.com/CyberAP/zed-classic-light-intellij"
