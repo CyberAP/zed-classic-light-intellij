@@ -161,6 +161,7 @@
 
           "keyword": { "color": "#000080ff", "font_weight": 700 },
           "keyword.import": { "color": "#000080ff", "font_weight": 700 },
+          "keyword.directive": { "color": "#0000ffff", "font_weight": 700 },
 
           "string": { "color": "#008000ff", "font_weight": 700 },
           "string.escape": { "color": "#000080ff", "font_weight": 700 },
@@ -196,12 +197,12 @@
           "punctuation": { "color": "#000000ff" },
           "punctuation.bracket": { "color": "#000000ff" },
           "punctuation.delimiter": { "color": "#000000ff" },
-          "punctuation.special": { "color": "#000080ff" },
+          "punctuation.special": { "color": "#000000ff" },
           "punctuation.list_marker": { "color": "#000080ff" },
 
           "label": { "color": "#000000ff", "font_weight": 700 },
           "attribute": { "color": "#0000ffff", "font_weight": 700 },
-          "tag": { "color": "#000080ff", "font_weight": 700, "background_color": "#e8effbff" },
+          "tag": { "color": "#000080ff", "font_weight": 700 },
           "tag.doctype": { "color": "#000080ff", "font_weight": 700 },
 
           "preproc": { "color": "#000080ff" },

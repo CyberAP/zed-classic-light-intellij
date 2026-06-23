@@ -73,11 +73,13 @@ this color theme targets:
 }
 ```
 
-**Font** — JetBrains' default editor font is **JetBrains Mono**; this theme also
-looks great with **Fira Code**:
+**Fonts** — for a JetBrains-like feel, use the OS UI font for Zed's interface
+(`.SystemUIFont`) and a coding font like **Fira Code** (or JetBrains' own
+**JetBrains Mono**) for the editor:
 
 ```json
 {
+  "ui_font_family": ".SystemUIFont",
   "buffer_font_family": "Fira Code",
   "buffer_font_features": { "calt": true }
 }
