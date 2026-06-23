@@ -158,7 +158,7 @@
 
           "string": { "color": "#008000ff", "font_weight": 700 },
           "string.escape": { "color": "#000080ff", "font_weight": 700 },
-          "string.regex": { "color": "#008000ff" },
+          "string.regex": { "color": "#0000ffff" },
           "string.special": { "color": "#000080ff" },
           "string.special.symbol": { "color": "#660e7aff", "font_style": "italic" },
 
@@ -170,12 +170,12 @@
           "variable": { "color": "#000000ff" },
           "variable.member": { "color": "#660e7aff", "font_weight": 700 },
           "variable.parameter": { "color": "#000000ff" },
-          "variable.special": { "color": "#660e7aff" },
-          "property": { "color": "#660e7aff" },
+          "variable.special": { "color": "#000080ff", "font_weight": 700 },
+          "property": { "color": "#660e7aff", "font_weight": 700 },
           "field": { "color": "#660e7aff", "font_weight": 700 },
 
           "function": { "color": "#000000ff" },
-          "function.method": { "color": "#000000ff" },
+          "function.method": { "color": "#914c07ff" },
           "function.builtin": { "color": "#000000ff", "font_style": "italic" },
           "function.definition": { "color": "#000000ff" },
           "constructor": { "color": "#000000ff" },
@@ -195,7 +195,7 @@
 
           "label": { "color": "#000000ff", "font_weight": 700 },
           "attribute": { "color": "#0000ffff", "font_weight": 700 },
-          "tag": { "color": "#000080ff" },
+          "tag": { "color": "#000080ff", "font_weight": 700, "background_color": "#e8effbff" },
           "tag.doctype": { "color": "#000080ff", "font_weight": 700 },
 
           "preproc": { "color": "#000080ff" },
