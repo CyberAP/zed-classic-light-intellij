@@ -85,6 +85,15 @@ this color theme targets:
 }
 ```
 
+**Sidebar** — for a tighter, JetBrains-like project tree, reduce the row
+spacing:
+
+```json
+{
+  "project_panel": { "entry_spacing": "standard" }
+}
+```
+
 ## License
 
 [MIT](LICENSE) © 2026 Stanislav Lashmanov. Color values are derived from
