@@ -137,6 +137,12 @@
         "renamed": "#007c7cff",
         "ignored": "#727238ff",
 
+        "version_control.added": "#cdddc3ff",
+        "version_control.modified": "#c3d6e8ff",
+        "version_control.deleted": "#9f9f9fff",
+        "version_control.word_added": "#33855533",
+        "version_control.word_deleted": "#c54e5833",
+
         "players": [
           { "cursor": "#000000ff", "background": "#5974abff", "selection": "#5974ab40" },
           { "cursor": "#067d17ff", "background": "#067d17ff", "selection": "#067d1733" },
