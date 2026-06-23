@@ -31,8 +31,15 @@ and only a few token classes are colored.
 | Classes, functions, params, operators | `#000000` | — |
 
 Editor background `#ffffff`, active line `#fffae3`, line numbers `#999999`.
-The project panel (sidebar) is white, with a grey fill for the selected entry
-and a blue focus ring for the active entry — mirroring IntelliJ's tool window.
+
+### UI chrome — matched to "Islands Light"
+
+The UI chrome (title bar, status bar, editor tabs, sidebar, borders, hover and
+selection states) is colour-matched to JetBrains' **"Islands Light"** UI theme:
+grey `#e9eaee` window chrome, a white active editor tab over greyed inactive
+tabs, a white sidebar with a grey `#e9eaee` selection fill, and translucent-black
+hover states. For the closest overall match, use this color theme with the
+**Islands Light** UI theme in your JetBrains IDE as the reference.
 
 ## Install
 
