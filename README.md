@@ -62,8 +62,19 @@ into `~/.config/zed/themes/` and select it in the theme picker.
 
 ## Pairs well with
 
-JetBrains' default editor font is **JetBrains Mono**; this theme also looks
-great with **Fira Code**. In your Zed `settings.json`:
+**Icons** — for the full JetBrains look, install the **JetBrains New UI Icon
+Theme** extension (search `jetbrains` in `zed: extensions`) and select the
+**JetBrains New UI Icons (Light)** icon theme. It matches the Islands UI that
+this color theme targets:
+
+```json
+{
+  "icon_theme": "JetBrains New UI Icons (Light)"
+}
+```
+
+**Font** — JetBrains' default editor font is **JetBrains Mono**; this theme also
+looks great with **Fira Code**:
 
 ```json
 {
